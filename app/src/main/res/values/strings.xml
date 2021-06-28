@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">34 Provinsi Indonesia</string>
+    <string name="provinces_name">Nama Provinsi</string>
+    <string name="detail">Detail</string>
 </resources>
